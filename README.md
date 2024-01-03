@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from Germany</h3>
 
 - 🔭 I’m currently working on [Cure App - A customer database](https://github.com/yusufkara95/cure-expo)
+- A website will coming soon. Some Repos are private until is finished :)
 
 - 🌱 I’m currently learning **React Native**
 
